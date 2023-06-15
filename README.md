@@ -1,6 +1,6 @@
 # 情報検索100本ノック
 
-（想定言語：Python）
+回答をまとめていくディレクトリ．
 
 0. [準備](0_preparation/index.md)
 1. [転置インデックスとマッチング](1_inverted_index_and_matching/index.md)
